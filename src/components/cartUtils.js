@@ -1,4 +1,3 @@
-// src/components/cartUtils.js
 import { db, auth } from '../firebase';
 import { ref, get, set } from 'firebase/database';
 

@@ -1,4 +1,3 @@
-// src/components/DrawerContext.jsx
 import { createContext, useContext, useState } from 'react';
 
 const DrawerContext = createContext();

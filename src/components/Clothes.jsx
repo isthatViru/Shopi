@@ -1,4 +1,3 @@
-// src/components/Clothes.jsx
 import React, { useEffect, useState } from 'react';
 import {
   Box,

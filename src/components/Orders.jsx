@@ -1,4 +1,3 @@
-// src/components/Orders.jsx
 import React, { useEffect, useState } from 'react';
 import { ref, get, child } from 'firebase/database';
 import { db, auth } from '../firebase';
