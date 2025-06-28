@@ -28,7 +28,7 @@ This is a simple **e-commerce website** built using **React**, **Firebase Authen
 ## 🚀 Live Demo
 
 > _You can deploy this project using Vercel or Netlify and paste the link here_
-
+https://shopi-gamma.vercel.app/
 ---
 
 ## 🛠️ Setup Instructions
